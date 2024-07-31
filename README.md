@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024_paris8/20240730_045.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024_paris8/20240729_021.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -160,19 +160,42 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～所々に松が植えてある。～～～<br><br></span></h3>
 
+<a href="20240729_018.JPG" data-lightbox="abc"><img src="20240729_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240729_019.JPG" data-lightbox="abc"><img src="20240729_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240729_020.JPG" data-lightbox="abc"><img src="20240729_020.JPG" alt="サンプル画像" width="900" /></a>
+
 <h3><span class="yellow"><br>～～～20時になったので21時キックオフの日本男子対イスラエルを見に行く。<br>公園のプールでは子供達が遊んでいた。～～～<br><br></span></h3>
+
+<a href="20240729_021.JPG" data-lightbox="abc"><img src="20240729_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240729_022.JPG" data-lightbox="abc"><img src="20240729_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240729_023.JPG" data-lightbox="abc"><img src="20240729_023.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～今日は上の方の見やすい席から観戦。～～～<br><br></span></h3>
 
+<a href="20240729_024.JPG" data-lightbox="abc"><img src="20240729_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240729_025.JPG" data-lightbox="abc"><img src="20240729_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240729_026.JPG" data-lightbox="abc"><img src="20240729_026.JPG" alt="サンプル画像" width="900" /></a>
+
 <h3><span class="yellow"><br>～～～イスラエル国家斉唱の時には立ち上がらない人、🇵🇸パレスチナ国旗を掲げる人。～～～<br><br></span></h3>
+
+<a href="20240729_027.JPG" data-lightbox="abc"><img src="20240729_027.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～前半は退屈な展開。GKのブライアンのセーブが安定していた。～～～<br><br></span></h3>
 
+<a href="20240729_028.JPG" data-lightbox="abc"><img src="20240729_028.JPG" alt="サンプル画像" width="900" /></a>
+
 <h3><span class="yellow"><br>～～～🇵🇸パレスチナ国旗を掲げる人が係員からやめるよう言われいる模様。～～～<br><br></span></h3>
+
+<a href="20240729_029.JPG" data-lightbox="abc"><img src="20240729_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240729_030.JPG" data-lightbox="abc"><img src="20240729_030.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～日本のCKの時のGK小久保ブライアン。<br>スタメンでないメンバーの攻撃に得点の気配なし。～～～<br><br></span></h3>
 
+<a href="20240729_031.JPG" data-lightbox="abc"><img src="20240729_031.JPG" alt="サンプル画像" width="900" /></a>
+
 <h3><span class="yellow"><br>～～～スタメンが入ると突然日本が別のチーム。～～～<br><br></span></h3>
+
+<a href="20240729_032.JPG" data-lightbox="abc"><img src="20240729_032.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～残り10分だけ日本の攻撃が面白くなった。時間稼ぎもしない。<br>
 選手挨拶～～～<br><br></span></h3>
