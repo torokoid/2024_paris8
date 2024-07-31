@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024_paris8/20240729_021.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024_paris8/20240729_022.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -147,7 +147,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240729_011.JPG" data-lightbox="abc"><img src="20240729_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240729_012.JPG" data-lightbox="abc"><img src="20240729_012.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～フィスビルの裏側の芝生、女性たちが日陰で座っていた。～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～フィスビルの裏側の芝生、女性たちが日陰で座っていた。電動車が充電中。～～～<br><br></span></h3>
 
 <a href="20240729_013.JPG" data-lightbox="abc"><img src="20240729_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240729_014.JPG" data-lightbox="abc"><img src="20240729_014.JPG" alt="サンプル画像" width="900" /></a>
