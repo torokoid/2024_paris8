@@ -124,20 +124,20 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～ナントのホテルの近道発見～～～<br><br></span></h3>
 
-
-
-
-
+<a href="20240729_001.JPG" data-lightbox="abc"><img src="20240729_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240729_002.JPG" data-lightbox="abc"><img src="20240729_002.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow"><marquee behavior="left">!!! 現在の主食 !!!</marquee></span></h2>
 
-
-
+<a href="20240729_003.JPG" data-lightbox="abc"><img src="20240729_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240729_004.JPG" data-lightbox="abc"><img src="20240729_004.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>徒歩17分スーパー<br>
 カラフール。昨日行ったスーパーでレジのおばちゃんからバックパックの中を見せろと疑われた。<br>今回は警備員にバックパックをみせたら、開けられないようにされました。<br><br></span></h3>
 
-
+<a href="20240729_005.JPG" data-lightbox="abc"><img src="20240729_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240729_006.JPG" data-lightbox="abc"><img src="20240729_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240729_007.JPG" data-lightbox="abc"><img src="20240729_007.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～帰り道に寄り道。洗濯物を干していた。～～<br><br></span></h3>
 
