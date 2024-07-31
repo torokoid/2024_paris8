@@ -197,8 +197,19 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <a href="20240729_032.JPG" data-lightbox="abc"><img src="20240729_032.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～残り10分だけ日本の攻撃が面白くなった。時間稼ぎもしない。<br>
-選手挨拶～～～<br><br></span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dgjaSyKP4kw?si=t3Z0rXTZ2GWcYVPn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h3><span class="yellow"><br>～～～残り10分だけ日本の攻撃が面白くなった。時間稼ぎもしない。<br>選手挨拶～～～<br><br></span></h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7uIRLw0eFk?si=KUHfcffGM1U21QtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ReE7YKEVdY?si=aSaEYmZeRH8BnLw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tzZvB-K-uj8?si=E_YBTQJApiUE9cPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gf47bjoaDgY?si=DHsXhP92MX8S1kEu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAfGXjdhfes?si=fVm4Oja2OPaqP8CK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h3><span class="yellow"><br>～～～次はスペイン戦なので、90分分内勝利を見るの見納めかな。～～～<br><br></span></h3>
 
