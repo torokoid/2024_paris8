@@ -119,7 +119,7 @@ background-color: rgba(0, 225, 0, 0.6);
 8/2 17:00 Lyon<br>
 8/3女子は1位通過はない<br>
 2位通過21:00ナント<br>
-3位通過15:00パリbr><br></h3></div>
+3位通過15:00パリ<br></h3></div>
 
 
 <h3><span class="yellow"><br>～～～ナントのホテルの近道発見～～～<br><br></span></h3>
