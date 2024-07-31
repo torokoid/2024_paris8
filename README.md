@@ -213,9 +213,15 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～次はスペイン戦なので、90分分内勝利を見るの見納めかな。～～～<br><br></span></h3>
 
+<a href="20240729_033.JPG" data-lightbox="abc"><img src="20240729_033.JPG" alt="サンプル画像" width="900" /></a>
+
 <h3><span class="yellow"><br>～～～地元の人達は車で来ていたらしく、大渋滞。～～～<br><br></span></h3>
 
+<a href="20240729_034.JPG" data-lightbox="abc"><img src="20240729_034.JPG" alt="サンプル画像" width="900" /></a>
+
 <h3><span class="yellow"><br>～～～昨夜購入したリヨン行きパスチケットが無駄にならず。～～～<br><br></span></h3>
+
+<a href="20240729_035.JPG" data-lightbox="abc"><img src="20240729_035.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～明日は日本女子対ナイジェリア<br>
 8/3準々決勝の場所は？<br>
