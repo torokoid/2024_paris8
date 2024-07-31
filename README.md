@@ -94,7 +94,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <!--<div style="background-color:rgb(255,255,255,0.5);">-->
 <p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris2/">22日〜23日</a>><a href="https://torokoid.github.io/2024_paris3/">23日〜24日</a>><a href="https://torokoid.github.io/2024_paris4/">24日〜</a>><a href="https://torokoid.github.io/2024_paris5/">25日〜</a>><a href="https://torokoid.github.io/2024_paris6/">26日〜></a>><a href="https://torokoid.github.io/2024_paris7/">27日〜</a>>29日〜</p><!--</div>-->
 
-<p align="left"> <span class="yellow">&nbsp;Bruce 26日〜</span></p>
+<p align="left"> <span class="yellow">&nbsp;Bruce 29日〜</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
 <p align="left"> <img src="paris8.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
