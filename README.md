@@ -223,12 +223,12 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <a href="20240729_035.JPG" data-lightbox="abc"><img src="20240729_035.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～明日は日本女子対ナイジェリア<br>
+<h3><span class="yellow"><br>明日は日本女子対ナイジェリア<br>
 8/3準々決勝の場所は？<br>
 15:00 Paris<br>
 21:00 Nantes<br>
 17:00 Lyon<br><br>
-おしまい～～～<br><br></span></h3>
+おしまい<br><br></span></h3>
 
 
 
